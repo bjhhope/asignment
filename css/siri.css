@@ -1,0 +1,22 @@
+
+.sasimi  {border: 1px solid black; width: auto;
+          overflow: hidden;
+          padding: 30px;
+          
+          height: 100px;
+          width: 1100px;
+          margin-top: 5px;
+          margin-left: 160px;
+          
+          
+        }
+.ookaimi{text-align: right ; margin-top: 10px; margin-left: 30px;}
+
+.control li img {width: 46px;}
+.control {  margin-top: 20px;  margin-top: 20px; float: right; clear:right;}
+
+    
+
+.sasimi li {float: left; line-height: 60px; margin-right: 60px;
+            font-size: large; 
+}

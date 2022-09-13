@@ -1,0 +1,11 @@
+header .top {margin :0 auto; width:1200px;}
+header .top h1 {float: left; padding:33px; }
+header .top h1 a:first-child {margin-right: 28px;}
+header .top >div {float:right ; }
+header .control h2 {float: left; margin-right: 25px; padding: 20px;}
+header .control ul {float: left;}
+header .control li {float: left; }
+header .control li a:first-child{margin-right: 28px;}
+header .control li img {width: 46px;}
+
+
